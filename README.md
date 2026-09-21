@@ -10,7 +10,7 @@ HIMMA is a lightweight, corporate Learning Management System (LMS) designed spec
 ## 🎯 The Bilingual Acronym
 The name **HIMMA** operates as a bilingual acronym reflecting its core structural mission:
 * **EN:** **H**ub for **I**nternal **M**anagement & **M**astery **A**cademy
-* **AR:** **هـ**يكلة **مـ**نظومة **مـ**هاراتنا **ا**لأساسية
+* **AR:** **هـ**يكلة **مـ**نظومة ال**مـ**هارات **ا**لأساسية
 
 ## ✨ Core Features
 * **Dual-Track Training System:** Clear separation between **Mandatory Compliance** (e.g., GMP, Safety, Onboarding) and **Elective Mastery** (e.g., Leadership, Advanced Software Skills).
