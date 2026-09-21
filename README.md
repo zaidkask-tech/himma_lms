@@ -34,5 +34,5 @@ The name **HIMMA** operates as a bilingual acronym reflecting its core structura
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/himma-lms.git](https://github.com/yourusername/himma-lms.git)
+   git clone [https://github.com/zaidkask-tech/himma-lms.git](https://github.com/zaidkask-tech/himma-lms.git)
    cd himma-lms
